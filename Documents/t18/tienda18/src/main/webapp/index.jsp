@@ -13,7 +13,7 @@
 
 	<div class="contenedor">
 		<div class="titulos">
-			<h1>Bienvenido a 'Mi Tienda 18_1'</h1>
+			<h1>Bienvenido!</h1>
 		</div>
 		<div class="formulario">
 			<form>
