@@ -20,10 +20,10 @@
 			  <div class="mb-3">
 			    <label for="exampleInputEmail1" class="form-label">Usuario</label>
 			    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="usuario">
-			    <div id="emailHelp" class="form-text">Ingrese el usuario con el que se registr�</div>
+			    <div id="emailHelp" class="form-text">Ingrese el usuario con el que se registró</div>
 			  </div>
 			  <div class="mb-3">
-			    <label for="exampleInputPassword1" class="form-label">Contrase�a</label>
+			    <label for="exampleInputPassword1" class="form-label">Contraseña</label>
 			    <input type="password" class="form-control" id="exampleInputPassword1" name="pass">
 			  </div>
 			  <div class="mb-3 form-check">
