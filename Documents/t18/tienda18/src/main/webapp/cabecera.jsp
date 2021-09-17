@@ -16,13 +16,13 @@
           <a class="nav-link" href="proveedores.jsp">Proveedores</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Productos</a>
+          <a class="nav-link" href="productos.jsp">Productos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Ventas</a>
+          <a class="nav-link" href="ventas.jsp">Ventas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Reportes</a>
+          <a class="nav-link" href="reportes.jsp">Reportes</a>
         </li>
       </ul>
     </div>
