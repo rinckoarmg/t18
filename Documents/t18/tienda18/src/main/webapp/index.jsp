@@ -32,7 +32,7 @@
 			  </div>
 			  <button type="submit" class="btn btn-primary">Ingresar</button>
 			  <!-- 'a' es cuando se genera un link -->
-			  <!-- <a class="btn btn-secondary" href="#" role="button">�Olvidaste la contrase�a?</a> -->
+			  <!-- <a class="btn btn-secondary" href="#" role="button">¿Olvidaste la contraseña?</a> -->
 			</form>
 		</div>
 	</div>
