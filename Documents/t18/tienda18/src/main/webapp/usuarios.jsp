@@ -48,7 +48,7 @@
 		      <td>admin123456</td>
 		      <td>admininicial</td>
 		      <!-- 'a' sirve para mandar a una referencia externa: -->
-		      <td> <a class="btn btn-primary btn-sm" href="formularioUsuarios.jsp?cedulaUsuario=<% %>">Modificar</a></td>
+		      <td> <a class="btn btn-primary btn-sm" href="formulario_usuarios.jsp?cedulaUsuario=<% %>">Modificar</a></td>
 		      <td> <button class="btn btn-primary btn-sm">Eliminar</button></td>
 		    </tr>
 		    <tr>
@@ -57,7 +57,7 @@
 		      <td>David</td>
 		      <td>david123456</td>
 		      <td>david01</td>
-		      <td> <a class="btn btn-primary btn-sm" href="formularioUsuarios.jsp?cedulaUsuario=<% %>">Modificar</a></td>
+		      <td> <a class="btn btn-primary btn-sm" href="formulario_usuarios.jsp?cedulaUsuario=<% %>">Modificar</a></td>
 		      <td> <button class="btn btn-primary btn-sm">Eliminar</button></td>
 		    </tr>
 		  </tbody>
