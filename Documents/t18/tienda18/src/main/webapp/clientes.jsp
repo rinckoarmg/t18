@@ -47,7 +47,7 @@
 		      <td></td>
 		      <td></td>
 		      <td></td>
-		      <td> <a class="btn btn-primary btn-sm" href="formularioClientes.jsp?cedulaCliente=<% %>">Modificar</a></td>
+		      <td> <a class="btn btn-primary btn-sm" href="formulario_clientes.jsp?cedulaCliente=<% %>">Modificar</a></td>
 		      <td> <button class="btn btn-primary btn-sm">Eliminar</button></td>
 		    </tr>
 		  </tbody>

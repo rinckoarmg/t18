@@ -47,7 +47,7 @@
 		      <td></td>
 		      <td></td>
 		      <td></td>
-		      <td> <a class="btn btn-primary btn-sm" href="formularioProveedores.jsp?nitProveedor=<% %>">Modificar</a></td>
+		      <td> <a class="btn btn-primary btn-sm" href="formulario_proveedores.jsp?nitProveedor=<% %>">Modificar</a></td>
 		      <td> <button class="btn btn-primary btn-sm">Eliminar</button></td>
 		    </tr>
 		  </tbody>
