@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <title>Gestión usuarios</title>
 </head>
+
 <body>
 	<jsp:include page="cabecera.jsp"></jsp:include>
 	<div class="titulos">
@@ -15,7 +16,7 @@
 	</div>
 	<div class="formularios2">
 		<a class="btn btn-primary btn-sm " href="formulario_usuarios.jsp">Agregar usuario</a>
-	</div>
+	</div>	
 	<div class="formularios2">
 		<form class="row g-3">
 		  <div class="col-auto">
